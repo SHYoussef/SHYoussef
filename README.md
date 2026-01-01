@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi! I’m Youssef
 
-<!--
-**SHYoussef/SHYoussef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Engineer  
+Interested in applied ML, LLM systems, and end-to-end AI product development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Data Science Projects
+
+| Project | Focus | Stack |
+|--------|-------|-------|
+| **DistillBert-Bayesian-optimization** | BERT distillation with Bayesian hyperparameter optimization | Python, NLP |
+| **stock-classification** | Time-series feature engineering & classification models (XGBoost, RF, LSTM) | Python, Finance |
+
+---
+
+## 🤖 AI Software Engineering Projects
+
+| Project | Focus | Stack |
+|--------|-------|-------|
+| **Reflex-RAG** | RAG app template: retrieval + LLM answering | Python |
+| **EvalBox** | Evaluation & benchmarking utilities for ML models | Typescript |
+
+
+---
+
+📫 **Contact**: Available for collaboration in ML / AI engineering / data projects.
+
