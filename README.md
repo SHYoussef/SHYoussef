@@ -10,7 +10,6 @@ Interested in applied ML, LLM systems, and end-to-end AI product development.
 | Project | Focus | Stack |
 |--------|-------|-------|
 | **Reflex-RAG** | RAG app template: retrieval + LLM answering | Python, FastAPI, Chainlit, LangGraph, Pinecone |
-| **EvalBox** | Evaluation & benchmarking utilities for Agents (In progress) | Typescript |
 
 ---
 
